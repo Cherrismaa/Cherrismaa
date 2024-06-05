@@ -15,7 +15,7 @@
      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   
-    <a href="https://codechef.com/cherrismaa" target="_blank">
+   <a href="https://codechef.com/cherrismaa" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" target="_blank" />
   </a>
   

@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
-  <a href="https://drive.google.com/file/d/1g-h3rJG2bodwgrSi4pBrUU7sfR4LXA0k/view?usp=sharing](https://drive.google.com/file/d/1g-h3rJG2bodwgrSi4pBrUU7sfR4LXA0k/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1BxIPspGh7ZrpcacQAZ7ZUGRb-1lodqEi/view?usp=sharing](https://drive.google.com/file/d/1BxIPspGh7ZrpcacQAZ7ZUGRb-1lodqEi/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   

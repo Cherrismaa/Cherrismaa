@@ -11,16 +11,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
+   <a href="https://cherrismaa.github.io/Cherrismaa-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-5B4638?style=for-the-badge&logo=portfolio &color=1609d6&logoColor=white" target="_blank" />
+  </a>
+
   <a href="https://drive.google.com/file/d/1BxIPspGh7ZrpcacQAZ7ZUGRb-1lodqEi/view?usp=sharing](https://drive.google.com/file/d/1BxIPspGh7ZrpcacQAZ7ZUGRb-1lodqEi/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   
-   <a href="https://codechef.com/cherrismaa" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" target="_blank" />
-  </a>
-  
   <a href="https://discord.com/cherrismaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" target="_blank" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" target="_blank" />
   </a>
   
 </div>

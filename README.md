@@ -1,56 +1,67 @@
-<h2 align="center">Hi !  I'm  Cherrismaa</h2>
+<h2 align="center">Hi, I'm Cherrismaa Mucharla</h2>
 
-###
+<p align="center">
+  <strong> Full-Stack Web Developer | Python & Frontend </strong>
+</p>
 
-<div align="center"> 
+<p align="center">
+  I’m a software developer focused on building clean, scalable, and user-centric web applications.
+  My interests lie at the intersection of frontend UX, reliable backend systems, and practical
+  problem-solving through code.
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
   <a href="mailto:cherrismaa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  
   <a href="https://linkedin.com/in/cherrismaa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-   <a href="https://cherrismaa.github.io/Cherrismaa-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-5B4638?style=for-the-badge&logo=portfolio &color=1609d6&logoColor=white" target="_blank" />
+  <a href="https://cherrismaa.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000098?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
-  <a href="https://drive.google.com/file/d/1BxIPspGh7ZrpcacQAZ7ZUGRb-1lodqEi/view?usp=sharing](https://drive.google.com/file/d/1BxIPspGh7ZrpcacQAZ7ZUGRb-1lodqEi/view?usp=sharing" target="_blank">
-     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  <a href="https://drive.google.com/file/d/1yDcBrO-iRVTO040aEEDFdT-zAFay1SIC/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  
-  <a href="https://discord.com/cherrismaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" target="_blank" />
-  </a>
-  
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+### 👩‍💻 About Me
 
-###
+- Software developer with real-world **full-stack web development experience**
+- Strong focus on **frontend design, usability, and performance**
+- Comfortable working across **Python-based logic and backend systems**
+- Experience building **production-ready applications**, not just academic projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cherrismaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🛠 Technical Skill Set
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cherrismaa.cherrismaa&left_color=black&right_color=darkblue"  />
-</div>
+**Frontend & UX**
+- HTML5, CSS3, JavaScript  
+- Responsive design, layout structuring, UI consistency
 
-###
+**Backend & Programming**
+- Python, Java, C  
+- Application logic, RESTful APIs, data flow
+
+**Database & Workflow**
+- MySQL  
+- Git & GitHub  
+- Production-minded development practices
+
+---
+
+### 🎯 Professional Focus
+
+I’m actively seeking opportunities where I can:
+- Contribute to real-world software products
+- Work in collaborative, engineering-driven teams
+- Grow as a full-stack developer while delivering practical impact
+
+I’m open to **full-time roles and meaningful opportunities** aligned with Software and Web Development.
